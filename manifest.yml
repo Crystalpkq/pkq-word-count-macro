@@ -1,0 +1,11 @@
+modules:
+  macro:
+    - key: pkq-word-count-macro
+      function: main
+      title: Word Count Macro for Confluence
+      description: Word Count Macro for Confluence created by Crystal Pang.
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/c2988531-9d56-48ba-ab11-314077ae0ade
