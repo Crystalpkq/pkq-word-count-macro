@@ -1,6 +1,6 @@
-# Forge Hello World (Typescript)
+# Forge Word Count Macro for Confluence (Typescript)
 
-This project contains a Forge app written in Typescript that displays `Hello World!` in a Confluence macro. 
+This project contains a Forge app written in Typescript to calculate the words in textarea in a Confluence macro. 
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
